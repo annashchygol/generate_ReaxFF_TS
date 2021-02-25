@@ -1,0 +1,1047 @@
+GEOMETRY
+clu_linker 0.02 1 11 1.26681
+clu_linker 0.02 1 50 1.26677
+clu_linker 0.02 1 75 1.1082
+clu_linker 0.02 2 9 1.26679
+clu_linker 0.02 2 57 1.26681
+clu_linker 0.02 2 76 1.10818
+clu_linker 0.02 3 22 1.26685
+clu_linker 0.02 3 23 2.25903
+clu_linker 0.02 4 31 2.22909
+clu_linker 0.02 4 47 1.27686
+clu_linker 0.02 5 28 1.39255
+clu_linker 0.02 5 44 1.39744
+clu_linker 0.02 5 56 1.0905
+clu_linker 0.02 6 34 1.26679
+clu_linker 0.02 6 51 2.25874
+clu_linker 0.02 7 8 1.26701
+clu_linker 0.02 7 48 2.25854
+clu_linker 0.02 8 16 1.26663
+clu_linker 0.02 8 70 1.10825
+clu_linker 0.02 9 51 2.25887
+clu_linker 0.02 10 55 1.10824
+clu_linker 0.02 11 48 2.25912
+clu_linker 0.02 12 30 2.08163
+clu_linker 0.02 12 31 2.08691
+clu_linker 0.02 12 51 2.08436
+clu_linker 0.02 13 17 1.26664
+clu_linker 0.02 13 64 1.267
+clu_linker 0.02 13 69 1.10825
+clu_linker 0.02 14 26 1.26687
+clu_linker 0.02 14 63 1.26678
+clu_linker 0.02 14 74 1.10819
+clu_linker 0.02 15 31 2.26131
+clu_linker 0.02 15 52 1.26679
+clu_linker 0.02 16 18 2.26482
+clu_linker 0.02 17 31 2.26484
+clu_linker 0.02 18 37 2.08696
+clu_linker 0.02 18 40 2.26136
+clu_linker 0.02 18 43 2.28672
+clu_linker 0.02 18 53 2.08312
+clu_linker 0.02 18 54 2.28234
+clu_linker 0.02 18 58 2.26144
+clu_linker 0.02 18 61 2.22916
+clu_linker 0.02 19 24 1.26677
+clu_linker 0.02 19 33 1.26681
+clu_linker 0.02 19 68 1.10819
+clu_linker 0.02 20 54 0.970079
+clu_linker 0.02 21 35 1.0905
+clu_linker 0.02 22 62 1.26675
+clu_linker 0.02 22 73 1.10818
+clu_linker 0.02 23 26 2.25954
+clu_linker 0.02 23 32 2.25935
+clu_linker 0.02 23 36 2.08464
+clu_linker 0.02 23 37 2.08178
+clu_linker 0.02 23 43 2.28349
+clu_linker 0.02 23 46 2.28471
+clu_linker 0.02 23 50 2.25939
+clu_linker 0.02 24 30 2.25942
+clu_linker 0.02 25 28 1.40204
+clu_linker 0.02 25 47 1.49212
+clu_linker 0.02 25 49 1.40204
+clu_linker 0.02 27 60 0.969951
+clu_linker 0.02 28 65 1.08933
+clu_linker 0.02 29 31 2.26144
+clu_linker 0.02 29 55 1.26678
+clu_linker 0.02 30 36 2.08429
+clu_linker 0.02 30 42 2.25938
+clu_linker 0.02 30 46 2.28533
+clu_linker 0.02 30 57 2.25944
+clu_linker 0.02 30 60 2.28275
+clu_linker 0.02 30 63 2.26019
+clu_linker 0.02 31 53 2.08316
+clu_linker 0.02 31 54 2.28227
+clu_linker 0.02 31 60 2.28685
+clu_linker 0.02 32 38 1.26687
+clu_linker 0.02 33 48 2.25907
+clu_linker 0.02 34 58 1.26678
+clu_linker 0.02 34 72 1.10824
+clu_linker 0.02 35 44 1.39744
+clu_linker 0.02 35 49 1.39255
+clu_linker 0.02 36 48 2.0842
+clu_linker 0.02 37 51 2.08415
+clu_linker 0.02 38 40 1.26678
+clu_linker 0.02 38 71 1.10825
+clu_linker 0.02 39 44 1.0909
+clu_linker 0.02 41 51 2.25876
+clu_linker 0.02 41 55 1.2668
+clu_linker 0.02 42 52 1.26688
+clu_linker 0.02 43 45 0.969949
+clu_linker 0.02 43 48 2.28446
+clu_linker 0.02 46 51 2.28358
+clu_linker 0.02 46 66 0.969974
+clu_linker 0.02 47 61 1.27685
+clu_linker 0.02 48 53 2.08179
+clu_linker 0.02 48 60 2.28467
+clu_linker 0.02 48 64 2.25863
+clu_linker 0.02 49 59 1.08933
+clu_linker 0.02 51 54 2.27935
+clu_linker 0.02 51 62 2.25912
+clu_linker 0.02 52 67 1.10824
+clu_linker 5.0 11 1 50 128.199
+clu_linker 5.0 11 1 75 115.898
+clu_linker 5.0 50 1 75 115.9
+clu_linker 5.0 9 2 57 128.198
+clu_linker 5.0 9 2 76 115.898
+clu_linker 5.0 57 2 76 115.901
+clu_linker 5.0 22 3 23 132.264
+clu_linker 5.0 31 4 47 133.9
+clu_linker 5.0 28 5 44 120.034
+clu_linker 5.0 28 5 56 119.906
+clu_linker 5.0 44 5 56 120.059
+clu_linker 5.0 34 6 51 132.317
+clu_linker 5.0 8 7 48 132.371
+clu_linker 5.0 7 8 16 128.21
+clu_linker 5.0 7 8 70 115.859
+clu_linker 5.0 16 8 70 115.929
+clu_linker 5.0 2 9 51 132.273
+clu_linker 5.0 1 11 48 132.282
+clu_linker 5.0 30 12 31 117.19
+clu_linker 5.0 30 12 51 117.251
+clu_linker 5.0 31 12 51 117.134
+clu_linker 5.0 17 13 64 128.211
+clu_linker 5.0 17 13 69 115.928
+clu_linker 5.0 64 13 69 115.858
+clu_linker 5.0 26 14 63 128.205
+clu_linker 5.0 26 14 74 115.893
+clu_linker 5.0 63 14 74 115.9
+clu_linker 5.0 31 15 52 132.217
+clu_linker 5.0 8 16 18 132.13
+clu_linker 5.0 13 17 31 132.132
+clu_linker 5.0 16 18 37 142.116
+clu_linker 5.0 16 18 40 79.5983
+clu_linker 5.0 16 18 43 72.6798
+clu_linker 5.0 16 18 53 83.4024
+clu_linker 5.0 16 18 54 139.533
+clu_linker 5.0 16 18 58 122.934
+clu_linker 5.0 16 18 61 73.9443
+clu_linker 5.0 37 18 40 83.3348
+clu_linker 5.0 37 18 43 70.0193
+clu_linker 5.0 37 18 53 89.9569
+clu_linker 5.0 37 18 54 69.9265
+clu_linker 5.0 37 18 58 83.294
+clu_linker 5.0 37 18 61 142.313
+clu_linker 5.0 40 18 43 72.7401
+clu_linker 5.0 40 18 53 142.145
+clu_linker 5.0 40 18 54 138.971
+clu_linker 5.0 40 18 58 73.6736
+clu_linker 5.0 40 18 61 123.147
+clu_linker 5.0 43 18 53 69.9691
+clu_linker 5.0 43 18 54 122.334
+clu_linker 5.0 43 18 58 138.942
+clu_linker 5.0 43 18 61 139.006
+clu_linker 5.0 53 18 54 70.3009
+clu_linker 5.0 53 18 58 142.553
+clu_linker 5.0 53 18 61 83.2265
+clu_linker 5.0 54 18 58 72.7988
+clu_linker 5.0 54 18 61 72.893
+clu_linker 5.0 58 18 61 80.1381
+clu_linker 5.0 24 19 33 128.199
+clu_linker 5.0 24 19 68 115.901
+clu_linker 5.0 33 19 68 115.898
+clu_linker 5.0 3 22 62 128.196
+clu_linker 5.0 3 22 73 115.898
+clu_linker 5.0 62 22 73 115.903
+clu_linker 5.0 3 23 26 79.7887
+clu_linker 5.0 3 23 32 73.7866
+clu_linker 5.0 3 23 36 142.332
+clu_linker 5.0 3 23 37 83.3954
+clu_linker 5.0 3 23 43 139.194
+clu_linker 5.0 3 23 46 72.7992
+clu_linker 5.0 3 23 50 122.817
+clu_linker 5.0 26 23 32 122.991
+clu_linker 5.0 26 23 36 83.2626
+clu_linker 5.0 26 23 37 142.273
+clu_linker 5.0 26 23 43 139.051
+clu_linker 5.0 26 23 46 72.7422
+clu_linker 5.0 26 23 50 73.7618
+clu_linker 5.0 32 23 36 142.317
+clu_linker 5.0 32 23 37 83.3524
+clu_linker 5.0 32 23 43 72.769
+clu_linker 5.0 32 23 46 139.126
+clu_linker 5.0 32 23 50 79.7808
+clu_linker 5.0 36 23 37 90.0477
+clu_linker 5.0 36 23 43 70.1053
+clu_linker 5.0 36 23 46 70.108
+clu_linker 5.0 36 23 50 83.3661
+clu_linker 5.0 37 23 43 70.1711
+clu_linker 5.0 37 23 46 70.0815
+clu_linker 5.0 37 23 50 142.373
+clu_linker 5.0 43 23 46 122.474
+clu_linker 5.0 43 23 50 72.7663
+clu_linker 5.0 46 23 50 139.128
+clu_linker 5.0 19 24 30 132.249
+clu_linker 5.0 28 25 47 120.057
+clu_linker 5.0 28 25 49 119.883
+clu_linker 5.0 47 25 49 120.057
+clu_linker 5.0 14 26 23 132.28
+clu_linker 5.0 5 28 25 119.957
+clu_linker 5.0 5 28 65 121.189
+clu_linker 5.0 25 28 65 118.853
+clu_linker 5.0 31 29 55 132.26
+clu_linker 5.0 12 30 24 142.413
+clu_linker 5.0 12 30 36 90.089
+clu_linker 5.0 12 30 42 83.3432
+clu_linker 5.0 12 30 46 70.092
+clu_linker 5.0 12 30 57 83.3777
+clu_linker 5.0 12 30 60 70.1993
+clu_linker 5.0 12 30 63 142.255
+clu_linker 5.0 24 30 36 83.37
+clu_linker 5.0 24 30 42 79.7962
+clu_linker 5.0 24 30 46 139.107
+clu_linker 5.0 24 30 57 122.801
+clu_linker 5.0 24 30 60 72.7817
+clu_linker 5.0 24 30 63 73.7555
+clu_linker 5.0 36 30 42 142.356
+clu_linker 5.0 36 30 46 70.1014
+clu_linker 5.0 36 30 57 142.301
+clu_linker 5.0 36 30 60 70.1286
+clu_linker 5.0 36 30 63 83.2604
+clu_linker 5.0 42 30 46 139.117
+clu_linker 5.0 42 30 57 73.7867
+clu_linker 5.0 42 30 60 72.7863
+clu_linker 5.0 42 30 63 122.967
+clu_linker 5.0 46 30 57 72.7797
+clu_linker 5.0 46 30 60 122.493
+clu_linker 5.0 46 30 63 72.7224
+clu_linker 5.0 57 30 60 139.217
+clu_linker 5.0 57 30 63 79.7449
+clu_linker 5.0 60 30 63 139.07
+clu_linker 5.0 4 31 12 142.321
+clu_linker 5.0 4 31 15 123.143
+clu_linker 5.0 4 31 17 73.9404
+clu_linker 5.0 4 31 29 80.1363
+clu_linker 5.0 4 31 53 83.229
+clu_linker 5.0 4 31 54 72.8941
+clu_linker 5.0 4 31 60 139.0
+clu_linker 5.0 12 31 15 83.3228
+clu_linker 5.0 12 31 17 142.119
+clu_linker 5.0 12 31 29 83.2798
+clu_linker 5.0 12 31 53 89.9782
+clu_linker 5.0 12 31 54 69.9373
+clu_linker 5.0 12 31 60 70.0284
+clu_linker 5.0 15 31 17 79.5959
+clu_linker 5.0 15 31 29 73.6823
+clu_linker 5.0 15 31 53 142.137
+clu_linker 5.0 15 31 54 138.982
+clu_linker 5.0 15 31 60 72.739
+clu_linker 5.0 17 31 29 122.939
+clu_linker 5.0 17 31 53 83.394
+clu_linker 5.0 17 31 54 139.526
+clu_linker 5.0 17 31 60 72.676
+clu_linker 5.0 29 31 53 142.554
+clu_linker 5.0 29 31 54 72.7995
+clu_linker 5.0 29 31 60 138.948
+clu_linker 5.0 53 31 54 70.3016
+clu_linker 5.0 53 31 60 69.9632
+clu_linker 5.0 54 31 60 122.333
+clu_linker 5.0 23 32 38 132.308
+clu_linker 5.0 19 33 48 132.283
+clu_linker 5.0 6 34 58 128.221
+clu_linker 5.0 6 34 72 115.875
+clu_linker 5.0 58 34 72 115.902
+clu_linker 5.0 21 35 44 120.059
+clu_linker 5.0 21 35 49 119.906
+clu_linker 5.0 44 35 49 120.034
+clu_linker 5.0 23 36 30 117.208
+clu_linker 5.0 23 36 48 117.167
+clu_linker 5.0 30 36 48 117.152
+clu_linker 5.0 18 37 23 117.216
+clu_linker 5.0 18 37 51 117.145
+clu_linker 5.0 23 37 51 117.254
+clu_linker 5.0 32 38 40 128.224
+clu_linker 5.0 32 38 71 115.871
+clu_linker 5.0 40 38 71 115.903
+clu_linker 5.0 18 40 38 132.216
+clu_linker 5.0 51 41 55 132.313
+clu_linker 5.0 30 42 52 132.289
+clu_linker 5.0 18 43 23 102.272
+clu_linker 5.0 18 43 45 115.978
+clu_linker 5.0 18 43 48 102.255
+clu_linker 5.0 23 43 45 115.943
+clu_linker 5.0 23 43 48 102.308
+clu_linker 5.0 45 43 48 115.946
+clu_linker 5.0 5 44 35 120.133
+clu_linker 5.0 5 44 39 119.933
+clu_linker 5.0 35 44 39 119.933
+clu_linker 5.0 23 46 30 102.277
+clu_linker 5.0 23 46 51 102.265
+clu_linker 5.0 23 46 66 115.967
+clu_linker 5.0 30 46 51 102.245
+clu_linker 5.0 30 46 66 115.98
+clu_linker 5.0 51 46 66 115.96
+clu_linker 5.0 4 47 25 117.423
+clu_linker 5.0 4 47 61 125.153
+clu_linker 5.0 25 47 61 117.423
+clu_linker 5.0 7 48 11 79.8199
+clu_linker 5.0 7 48 33 122.948
+clu_linker 5.0 7 48 36 142.324
+clu_linker 5.0 7 48 43 72.7919
+clu_linker 5.0 7 48 53 83.384
+clu_linker 5.0 7 48 60 139.091
+clu_linker 5.0 7 48 64 73.7604
+clu_linker 5.0 11 48 33 73.8039
+clu_linker 5.0 11 48 36 83.3351
+clu_linker 5.0 11 48 43 72.8047
+clu_linker 5.0 11 48 53 142.294
+clu_linker 5.0 11 48 60 139.156
+clu_linker 5.0 11 48 64 122.958
+clu_linker 5.0 33 48 36 83.3381
+clu_linker 5.0 33 48 43 139.161
+clu_linker 5.0 33 48 53 142.284
+clu_linker 5.0 33 48 60 72.8026
+clu_linker 5.0 33 48 64 79.8175
+clu_linker 5.0 36 48 43 70.0931
+clu_linker 5.0 36 48 53 89.9523
+clu_linker 5.0 36 48 60 70.0913
+clu_linker 5.0 36 48 64 142.317
+clu_linker 5.0 43 48 53 70.0369
+clu_linker 5.0 43 48 60 122.364
+clu_linker 5.0 43 48 64 139.09
+clu_linker 5.0 53 48 60 70.0299
+clu_linker 5.0 53 48 64 83.3729
+clu_linker 5.0 60 48 64 72.7858
+clu_linker 5.0 25 49 35 119.957
+clu_linker 5.0 25 49 59 118.853
+clu_linker 5.0 35 49 59 121.189
+clu_linker 5.0 1 50 23 132.264
+clu_linker 5.0 6 51 9 122.954
+clu_linker 5.0 6 51 12 142.301
+clu_linker 5.0 6 51 37 83.3663
+clu_linker 5.0 6 51 41 79.8294
+clu_linker 5.0 6 51 46 139.109
+clu_linker 5.0 6 51 54 72.8178
+clu_linker 5.0 6 51 62 73.7792
+clu_linker 5.0 9 51 12 83.3678
+clu_linker 5.0 9 51 37 142.301
+clu_linker 5.0 9 51 41 73.7837
+clu_linker 5.0 9 51 46 72.7863
+clu_linker 5.0 9 51 54 139.135
+clu_linker 5.0 9 51 62 79.8039
+clu_linker 5.0 12 51 37 89.9274
+clu_linker 5.0 12 51 41 83.3541
+clu_linker 5.0 12 51 46 70.0816
+clu_linker 5.0 12 51 54 70.0386
+clu_linker 5.0 12 51 62 142.311
+clu_linker 5.0 37 51 41 142.299
+clu_linker 5.0 37 51 46 70.0645
+clu_linker 5.0 37 51 54 70.0335
+clu_linker 5.0 37 51 62 83.3877
+clu_linker 5.0 41 51 46 139.124
+clu_linker 5.0 41 51 54 72.8178
+clu_linker 5.0 41 51 62 122.945
+clu_linker 5.0 46 51 54 122.352
+clu_linker 5.0 46 51 62 72.7838
+clu_linker 5.0 54 51 62 139.137
+clu_linker 5.0 15 52 42 128.223
+clu_linker 5.0 15 52 67 115.903
+clu_linker 5.0 42 52 67 115.872
+clu_linker 5.0 18 53 31 116.89
+clu_linker 5.0 18 53 48 117.406
+clu_linker 5.0 31 53 48 117.42
+clu_linker 5.0 18 54 20 115.164
+clu_linker 5.0 18 54 31 102.115
+clu_linker 5.0 18 54 51 102.565
+clu_linker 5.0 20 54 31 115.147
+clu_linker 5.0 20 54 51 117.196
+clu_linker 5.0 31 54 51 102.564
+clu_linker 5.0 10 55 29 115.902
+clu_linker 5.0 10 55 41 115.875
+clu_linker 5.0 29 55 41 128.221
+clu_linker 5.0 2 57 30 132.255
+clu_linker 5.0 18 58 34 132.26
+clu_linker 5.0 27 60 30 115.942
+clu_linker 5.0 27 60 31 115.975
+clu_linker 5.0 27 60 48 115.961
+clu_linker 5.0 30 60 31 102.264
+clu_linker 5.0 30 60 48 102.302
+clu_linker 5.0 31 60 48 102.255
+clu_linker 5.0 18 61 47 133.9
+clu_linker 5.0 22 62 51 132.268
+clu_linker 5.0 14 63 30 132.27
+clu_linker 5.0 13 64 48 132.374
+clu_linker 10.0 50 1 11 48 4.62187
+clu_linker 10.0 75 1 11 48 -175.988
+clu_linker 10.0 11 1 50 23 -4.755
+clu_linker 10.0 75 1 50 23 175.855
+clu_linker 10.0 57 2 9 51 -4.66035
+clu_linker 10.0 76 2 9 51 175.969
+clu_linker 10.0 9 2 57 30 4.65562
+clu_linker 10.0 76 2 57 30 -175.974
+clu_linker 10.0 23 3 22 62 -4.64054
+clu_linker 10.0 23 3 22 73 175.985
+clu_linker 10.0 22 3 23 26 117.69
+clu_linker 10.0 22 3 23 32 -113.366
+clu_linker 10.0 22 3 23 36 53.0568
+clu_linker 10.0 22 3 23 37 -28.3968
+clu_linker 10.0 22 3 23 43 -77.3516
+clu_linker 10.0 22 3 23 46 42.7483
+clu_linker 10.0 22 3 23 50 -179.326
+clu_linker 10.0 47 4 31 12 -54.8935
+clu_linker 10.0 47 4 31 15 176.916
+clu_linker 10.0 47 4 31 17 111.272
+clu_linker 10.0 47 4 31 29 -120.093
+clu_linker 10.0 47 4 31 53 26.2267
+clu_linker 10.0 47 4 31 54 -45.1946
+clu_linker 10.0 47 4 31 60 74.7357
+clu_linker 10.0 31 4 47 25 -171.181
+clu_linker 10.0 31 4 47 61 9.2083
+clu_linker 10.0 44 5 28 25 0.130723
+clu_linker 10.0 44 5 28 65 -179.73
+clu_linker 10.0 56 5 28 25 179.972
+clu_linker 10.0 56 5 28 65 0.111569
+clu_linker 10.0 28 5 44 35 -0.0390032
+clu_linker 10.0 28 5 44 39 179.895
+clu_linker 10.0 56 5 44 35 -179.88
+clu_linker 10.0 56 5 44 39 0.0537621
+clu_linker 10.0 51 6 34 58 -4.17168
+clu_linker 10.0 51 6 34 72 176.397
+clu_linker 10.0 34 6 51 9 -179.545
+clu_linker 10.0 34 6 51 12 52.5954
+clu_linker 10.0 34 6 51 37 -28.6289
+clu_linker 10.0 34 6 51 41 117.483
+clu_linker 10.0 34 6 51 46 -77.431
+clu_linker 10.0 34 6 51 54 42.474
+clu_linker 10.0 34 6 51 62 -113.644
+clu_linker 10.0 48 7 8 16 -5.00154
+clu_linker 10.0 48 7 8 70 175.636
+clu_linker 10.0 8 7 48 11 117.851
+clu_linker 10.0 8 7 48 33 -179.155
+clu_linker 10.0 8 7 48 36 53.0309
+clu_linker 10.0 8 7 48 43 42.8507
+clu_linker 10.0 8 7 48 53 -28.2511
+clu_linker 10.0 8 7 48 60 -77.0364
+clu_linker 10.0 8 7 48 64 -113.247
+clu_linker 10.0 7 8 16 18 5.24146
+clu_linker 10.0 70 8 16 18 -175.396
+clu_linker 10.0 2 9 51 6 -179.249
+clu_linker 10.0 2 9 51 12 -28.3307
+clu_linker 10.0 2 9 51 37 52.8957
+clu_linker 10.0 2 9 51 41 -113.31
+clu_linker 10.0 2 9 51 46 42.8227
+clu_linker 10.0 2 9 51 54 -77.0542
+clu_linker 10.0 2 9 51 62 117.806
+clu_linker 10.0 1 11 48 7 -117.661
+clu_linker 10.0 1 11 48 33 113.468
+clu_linker 10.0 1 11 48 36 28.4985
+clu_linker 10.0 1 11 48 43 -42.676
+clu_linker 10.0 1 11 48 53 -52.7282
+clu_linker 10.0 1 11 48 60 77.2459
+clu_linker 10.0 1 11 48 64 179.407
+clu_linker 10.0 31 12 30 24 5.58774
+clu_linker 10.0 31 12 30 36 -73.6189
+clu_linker 10.0 31 12 30 42 69.2275
+clu_linker 10.0 31 12 30 46 -142.362
+clu_linker 10.0 31 12 30 57 143.596
+clu_linker 10.0 31 12 30 60 -4.83145
+clu_linker 10.0 31 12 30 63 -152.683
+clu_linker 10.0 51 12 30 24 152.868
+clu_linker 10.0 51 12 30 36 73.6613
+clu_linker 10.0 51 12 30 42 -143.492
+clu_linker 10.0 51 12 30 46 4.91829
+clu_linker 10.0 51 12 30 57 -69.1237
+clu_linker 10.0 51 12 30 60 142.449
+clu_linker 10.0 51 12 30 63 -5.40304
+clu_linker 10.0 30 12 31 4 152.307
+clu_linker 10.0 30 12 31 15 -69.1907
+clu_linker 10.0 30 12 31 17 -5.71621
+clu_linker 10.0 30 12 31 29 -143.464
+clu_linker 10.0 30 12 31 53 73.4569
+clu_linker 10.0 30 12 31 54 142.436
+clu_linker 10.0 30 12 31 60 4.82798
+clu_linker 10.0 51 12 31 4 4.98749
+clu_linker 10.0 51 12 31 15 143.49
+clu_linker 10.0 51 12 31 17 -153.035
+clu_linker 10.0 51 12 31 29 69.2167
+clu_linker 10.0 51 12 31 53 -73.8622
+clu_linker 10.0 51 12 31 54 -4.88293
+clu_linker 10.0 51 12 31 60 -142.491
+clu_linker 10.0 30 12 51 6 -152.702
+clu_linker 10.0 30 12 51 9 69.1303
+clu_linker 10.0 30 12 51 37 -73.6871
+clu_linker 10.0 30 12 51 41 143.496
+clu_linker 10.0 30 12 51 46 -4.92238
+clu_linker 10.0 30 12 51 54 -142.413
+clu_linker 10.0 30 12 51 62 5.36101
+clu_linker 10.0 31 12 51 6 -5.40349
+clu_linker 10.0 31 12 51 9 -143.571
+clu_linker 10.0 31 12 51 37 73.6116
+clu_linker 10.0 31 12 51 41 -69.2055
+clu_linker 10.0 31 12 51 46 142.376
+clu_linker 10.0 31 12 51 54 4.88604
+clu_linker 10.0 31 12 51 62 152.66
+clu_linker 10.0 64 13 17 31 -5.24256
+clu_linker 10.0 69 13 17 31 175.405
+clu_linker 10.0 17 13 64 48 5.00175
+clu_linker 10.0 69 13 64 48 -175.646
+clu_linker 10.0 63 14 26 23 4.69395
+clu_linker 10.0 74 14 26 23 -175.914
+clu_linker 10.0 26 14 63 30 -4.72219
+clu_linker 10.0 74 14 63 30 175.885
+clu_linker 10.0 52 15 31 4 179.372
+clu_linker 10.0 52 15 31 12 28.2986
+clu_linker 10.0 52 15 31 17 -117.744
+clu_linker 10.0 52 15 31 29 113.222
+clu_linker 10.0 52 15 31 53 -53.0045
+clu_linker 10.0 52 15 31 54 76.9335
+clu_linker 10.0 52 15 31 60 -42.8129
+clu_linker 10.0 31 15 52 42 4.68896
+clu_linker 10.0 31 15 52 67 -175.933
+clu_linker 10.0 8 16 18 37 -53.5248
+clu_linker 10.0 8 16 18 40 -118.177
+clu_linker 10.0 8 16 18 43 -43.1728
+clu_linker 10.0 8 16 18 53 27.8544
+clu_linker 10.0 8 16 18 54 76.6745
+clu_linker 10.0 8 16 18 58 179.174
+clu_linker 10.0 8 16 18 61 112.676
+clu_linker 10.0 13 17 31 4 -112.675
+clu_linker 10.0 13 17 31 12 53.554
+clu_linker 10.0 13 17 31 15 118.179
+clu_linker 10.0 13 17 31 29 -179.165
+clu_linker 10.0 13 17 31 53 -27.8488
+clu_linker 10.0 13 17 31 54 -76.665
+clu_linker 10.0 13 17 31 60 43.1748
+clu_linker 10.0 16 18 37 23 5.6587
+clu_linker 10.0 16 18 37 51 153.051
+clu_linker 10.0 40 18 37 23 69.1572
+clu_linker 10.0 40 18 37 51 -143.451
+clu_linker 10.0 43 18 37 23 -4.85867
+clu_linker 10.0 43 18 37 51 142.534
+clu_linker 10.0 53 18 37 23 -73.5008
+clu_linker 10.0 53 18 37 51 73.8914
+clu_linker 10.0 54 18 37 23 -142.486
+clu_linker 10.0 54 18 37 51 4.90606
+clu_linker 10.0 58 18 37 23 143.42
+clu_linker 10.0 58 18 37 51 -69.1881
+clu_linker 10.0 61 18 37 23 -152.32
+clu_linker 10.0 61 18 37 51 -4.92816
+clu_linker 10.0 16 18 40 38 117.722
+clu_linker 10.0 37 18 40 38 -28.3109
+clu_linker 10.0 43 18 40 38 42.7874
+clu_linker 10.0 53 18 40 38 52.9701
+clu_linker 10.0 54 18 40 38 -76.9576
+clu_linker 10.0 58 18 40 38 -113.246
+clu_linker 10.0 61 18 40 38 -179.39
+clu_linker 10.0 16 18 43 23 -169.228
+clu_linker 10.0 16 18 43 45 -42.0695
+clu_linker 10.0 16 18 43 48 85.0791
+clu_linker 10.0 37 18 43 23 4.02969
+clu_linker 10.0 37 18 43 45 131.188
+clu_linker 10.0 37 18 43 48 -101.664
+clu_linker 10.0 40 18 43 23 -85.0331
+clu_linker 10.0 40 18 43 45 42.125
+clu_linker 10.0 40 18 43 48 169.274
+clu_linker 10.0 53 18 43 23 101.598
+clu_linker 10.0 53 18 43 45 -131.244
+clu_linker 10.0 53 18 43 48 -4.09539
+clu_linker 10.0 54 18 43 23 52.5482
+clu_linker 10.0 54 18 43 45 179.706
+clu_linker 10.0 54 18 43 48 -53.1451
+clu_linker 10.0 58 18 43 23 -48.6281
+clu_linker 10.0 58 18 43 45 78.53
+clu_linker 10.0 58 18 43 48 -154.321
+clu_linker 10.0 61 18 43 23 153.946
+clu_linker 10.0 61 18 43 45 -78.8959
+clu_linker 10.0 61 18 43 48 48.2528
+clu_linker 10.0 16 18 53 31 143.396
+clu_linker 10.0 16 18 53 48 -68.9804
+clu_linker 10.0 37 18 53 31 -73.9854
+clu_linker 10.0 37 18 53 48 73.6378
+clu_linker 10.0 40 18 53 31 -153.026
+clu_linker 10.0 40 18 53 48 -5.40328
+clu_linker 10.0 43 18 53 31 -142.674
+clu_linker 10.0 43 18 53 48 4.94887
+clu_linker 10.0 54 18 53 31 -5.3494
+clu_linker 10.0 54 18 53 48 142.274
+clu_linker 10.0 58 18 53 31 4.88466
+clu_linker 10.0 58 18 53 48 152.508
+clu_linker 10.0 61 18 53 31 68.8606
+clu_linker 10.0 61 18 53 48 -143.516
+clu_linker 10.0 16 18 54 20 77.4022
+clu_linker 10.0 16 18 54 31 -48.1219
+clu_linker 10.0 16 18 54 51 -154.131
+clu_linker 10.0 37 18 54 20 -132.555
+clu_linker 10.0 37 18 54 31 101.921
+clu_linker 10.0 37 18 54 51 -4.08822
+clu_linker 10.0 40 18 54 20 -80.0135
+clu_linker 10.0 40 18 54 31 154.462
+clu_linker 10.0 40 18 54 51 48.4535
+clu_linker 10.0 43 18 54 20 178.888
+clu_linker 10.0 43 18 54 31 53.3639
+clu_linker 10.0 43 18 54 51 -52.645
+clu_linker 10.0 53 18 54 20 129.976
+clu_linker 10.0 53 18 54 31 4.45196
+clu_linker 10.0 53 18 54 51 -101.557
+clu_linker 10.0 58 18 54 20 -43.5306
+clu_linker 10.0 58 18 54 31 -169.055
+clu_linker 10.0 58 18 54 51 84.9364
+clu_linker 10.0 61 18 54 20 41.1727
+clu_linker 10.0 61 18 54 31 -84.3515
+clu_linker 10.0 61 18 54 51 169.64
+clu_linker 10.0 16 18 58 34 179.232
+clu_linker 10.0 37 18 58 34 28.6923
+clu_linker 10.0 40 18 58 34 113.682
+clu_linker 10.0 43 18 58 34 77.484
+clu_linker 10.0 53 18 58 34 -52.4043
+clu_linker 10.0 54 18 58 34 -42.3196
+clu_linker 10.0 61 18 58 34 -117.325
+clu_linker 10.0 16 18 61 47 -111.286
+clu_linker 10.0 37 18 61 47 54.8523
+clu_linker 10.0 40 18 61 47 -176.934
+clu_linker 10.0 43 18 61 47 -74.7418
+clu_linker 10.0 53 18 61 47 -26.2317
+clu_linker 10.0 54 18 61 47 45.1895
+clu_linker 10.0 58 18 61 47 120.087
+clu_linker 10.0 33 19 24 30 4.73537
+clu_linker 10.0 68 19 24 30 -175.873
+clu_linker 10.0 24 19 33 48 -4.63549
+clu_linker 10.0 68 19 33 48 175.973
+clu_linker 10.0 3 22 62 51 4.68535
+clu_linker 10.0 73 22 62 51 -175.94
+clu_linker 10.0 3 23 26 14 -117.806
+clu_linker 10.0 32 23 26 14 179.27
+clu_linker 10.0 36 23 26 14 28.4134
+clu_linker 10.0 37 23 26 14 -52.8827
+clu_linker 10.0 43 23 26 14 77.1909
+clu_linker 10.0 46 23 26 14 -42.7987
+clu_linker 10.0 50 23 26 14 113.436
+clu_linker 10.0 3 23 32 38 113.519
+clu_linker 10.0 26 23 32 38 179.384
+clu_linker 10.0 36 23 32 38 -52.9088
+clu_linker 10.0 37 23 32 38 28.4925
+clu_linker 10.0 43 23 32 38 -42.7593
+clu_linker 10.0 46 23 32 38 77.2843
+clu_linker 10.0 50 23 32 38 -117.732
+clu_linker 10.0 3 23 36 30 -5.73951
+clu_linker 10.0 3 23 36 48 -152.943
+clu_linker 10.0 26 23 36 30 -69.3067
+clu_linker 10.0 26 23 36 48 143.49
+clu_linker 10.0 32 23 36 30 152.621
+clu_linker 10.0 32 23 36 48 5.41822
+clu_linker 10.0 37 23 36 30 73.4745
+clu_linker 10.0 37 23 36 48 -73.7285
+clu_linker 10.0 43 23 36 30 142.31
+clu_linker 10.0 43 23 36 48 -4.89277
+clu_linker 10.0 46 23 36 30 4.73457
+clu_linker 10.0 46 23 36 48 -142.468
+clu_linker 10.0 50 23 36 30 -143.658
+clu_linker 10.0 50 23 36 48 69.1388
+clu_linker 10.0 3 23 37 18 -143.543
+clu_linker 10.0 3 23 37 51 69.1005
+clu_linker 10.0 26 23 37 18 152.644
+clu_linker 10.0 26 23 37 51 5.28814
+clu_linker 10.0 32 23 37 18 -69.1771
+clu_linker 10.0 32 23 37 51 143.467
+clu_linker 10.0 36 23 37 18 73.6353
+clu_linker 10.0 36 23 37 51 -73.721
+clu_linker 10.0 43 23 37 18 4.86089
+clu_linker 10.0 43 23 37 51 -142.495
+clu_linker 10.0 46 23 37 18 142.4
+clu_linker 10.0 46 23 37 51 -4.95635
+clu_linker 10.0 50 23 37 18 -5.52035
+clu_linker 10.0 50 23 37 51 -152.877
+clu_linker 10.0 3 23 43 18 48.7524
+clu_linker 10.0 3 23 43 45 -78.4276
+clu_linker 10.0 3 23 43 48 154.404
+clu_linker 10.0 26 23 43 18 -154.184
+clu_linker 10.0 26 23 43 45 78.6357
+clu_linker 10.0 26 23 43 48 -48.5326
+clu_linker 10.0 32 23 43 18 84.9897
+clu_linker 10.0 32 23 43 45 -42.1902
+clu_linker 10.0 32 23 43 48 -169.359
+clu_linker 10.0 36 23 43 18 -101.588
+clu_linker 10.0 36 23 43 45 131.232
+clu_linker 10.0 36 23 43 48 4.0633
+clu_linker 10.0 37 23 43 18 -4.03586
+clu_linker 10.0 37 23 43 45 -131.216
+clu_linker 10.0 37 23 43 48 101.616
+clu_linker 10.0 46 23 43 18 -52.8295
+clu_linker 10.0 46 23 43 45 179.991
+clu_linker 10.0 46 23 43 48 52.8222
+clu_linker 10.0 50 23 43 18 169.35
+clu_linker 10.0 50 23 43 45 42.1698
+clu_linker 10.0 50 23 43 48 -84.9985
+clu_linker 10.0 3 23 46 30 169.393
+clu_linker 10.0 3 23 46 51 -84.976
+clu_linker 10.0 3 23 46 66 42.1906
+clu_linker 10.0 26 23 46 30 85.0262
+clu_linker 10.0 26 23 46 51 -169.343
+clu_linker 10.0 26 23 46 66 -42.1763
+clu_linker 10.0 32 23 46 30 -154.155
+clu_linker 10.0 32 23 46 51 -48.5237
+clu_linker 10.0 32 23 46 66 78.6429
+clu_linker 10.0 36 23 46 30 -3.92879
+clu_linker 10.0 36 23 46 51 101.702
+clu_linker 10.0 36 23 46 66 -131.131
+clu_linker 10.0 37 23 46 30 -101.517
+clu_linker 10.0 37 23 46 51 4.11362
+clu_linker 10.0 37 23 46 66 131.28
+clu_linker 10.0 43 23 46 30 -52.6866
+clu_linker 10.0 43 23 46 51 52.9443
+clu_linker 10.0 43 23 46 66 -179.889
+clu_linker 10.0 50 23 46 30 48.7789
+clu_linker 10.0 50 23 46 51 154.41
+clu_linker 10.0 50 23 46 66 -78.4236
+clu_linker 10.0 3 23 50 1 -179.123
+clu_linker 10.0 26 23 50 1 -113.173
+clu_linker 10.0 32 23 50 1 117.867
+clu_linker 10.0 36 23 50 1 -28.2874
+clu_linker 10.0 37 23 50 1 53.1146
+clu_linker 10.0 43 23 50 1 42.8916
+clu_linker 10.0 46 23 50 1 -77.1497
+clu_linker 10.0 19 24 30 12 -53.1387
+clu_linker 10.0 19 24 30 36 28.3248
+clu_linker 10.0 19 24 30 42 -117.865
+clu_linker 10.0 19 24 30 46 77.2057
+clu_linker 10.0 19 24 30 57 179.104
+clu_linker 10.0 19 24 30 60 -42.8772
+clu_linker 10.0 19 24 30 63 113.208
+clu_linker 10.0 47 25 28 5 -179.651
+clu_linker 10.0 47 25 28 65 0.212549
+clu_linker 10.0 49 25 28 5 -0.223315
+clu_linker 10.0 49 25 28 65 179.641
+clu_linker 10.0 28 25 47 4 179.89
+clu_linker 10.0 28 25 47 61 -0.468257
+clu_linker 10.0 49 25 47 4 0.463319
+clu_linker 10.0 49 25 47 61 -179.895
+clu_linker 10.0 28 25 49 35 0.224507
+clu_linker 10.0 28 25 49 59 -179.641
+clu_linker 10.0 47 25 49 35 179.652
+clu_linker 10.0 47 25 49 59 -0.213215
+clu_linker 10.0 55 29 31 4 117.333
+clu_linker 10.0 55 29 31 12 -28.7007
+clu_linker 10.0 55 29 31 15 -113.681
+clu_linker 10.0 55 29 31 17 -179.232
+clu_linker 10.0 55 29 31 53 52.412
+clu_linker 10.0 55 29 31 54 42.3266
+clu_linker 10.0 55 29 31 60 -77.4792
+clu_linker 10.0 31 29 55 10 176.444
+clu_linker 10.0 31 29 55 41 -4.12189
+clu_linker 10.0 12 30 36 23 -73.4677
+clu_linker 10.0 12 30 36 48 73.74
+clu_linker 10.0 24 30 36 23 143.633
+clu_linker 10.0 24 30 36 48 -69.1596
+clu_linker 10.0 42 30 36 23 -152.644
+clu_linker 10.0 42 30 36 48 -5.4361
+clu_linker 10.0 46 30 36 23 -4.73348
+clu_linker 10.0 46 30 36 48 142.474
+clu_linker 10.0 57 30 36 23 5.77905
+clu_linker 10.0 57 30 36 48 152.987
+clu_linker 10.0 60 30 36 23 -142.321
+clu_linker 10.0 60 30 36 48 4.88667
+clu_linker 10.0 63 30 36 23 69.2877
+clu_linker 10.0 63 30 36 48 -143.505
+clu_linker 10.0 12 30 42 52 -28.5248
+clu_linker 10.0 24 30 42 52 117.742
+clu_linker 10.0 36 30 42 52 52.9206
+clu_linker 10.0 46 30 42 52 -77.3322
+clu_linker 10.0 57 30 42 52 -113.535
+clu_linker 10.0 60 30 42 52 42.7589
+clu_linker 10.0 63 30 42 52 -179.357
+clu_linker 10.0 12 30 46 23 101.564
+clu_linker 10.0 12 30 46 51 -4.08229
+clu_linker 10.0 12 30 46 66 -131.242
+clu_linker 10.0 24 30 46 23 -48.803
+clu_linker 10.0 24 30 46 51 -154.449
+clu_linker 10.0 24 30 46 66 78.3915
+clu_linker 10.0 36 30 46 23 3.92962
+clu_linker 10.0 36 30 46 51 -101.716
+clu_linker 10.0 36 30 46 66 131.124
+clu_linker 10.0 42 30 46 23 154.212
+clu_linker 10.0 42 30 46 51 48.5666
+clu_linker 10.0 42 30 46 66 -78.5931
+clu_linker 10.0 57 30 46 23 -169.363
+clu_linker 10.0 57 30 46 51 84.9916
+clu_linker 10.0 57 30 46 66 -42.168
+clu_linker 10.0 60 30 46 23 52.6964
+clu_linker 10.0 60 30 46 51 -52.9495
+clu_linker 10.0 60 30 46 66 179.891
+clu_linker 10.0 63 30 46 23 -85.0321
+clu_linker 10.0 63 30 46 51 169.322
+clu_linker 10.0 63 30 46 66 42.1624
+clu_linker 10.0 12 30 57 2 28.3805
+clu_linker 10.0 24 30 57 2 179.336
+clu_linker 10.0 36 30 57 2 -53.1279
+clu_linker 10.0 42 30 57 2 113.345
+clu_linker 10.0 46 30 57 2 -42.781
+clu_linker 10.0 60 30 57 2 77.334
+clu_linker 10.0 63 30 57 2 -117.716
+clu_linker 10.0 12 30 60 27 131.182
+clu_linker 10.0 12 30 60 31 4.01195
+clu_linker 10.0 12 30 60 48 -101.637
+clu_linker 10.0 24 30 60 27 -42.1864
+clu_linker 10.0 24 30 60 31 -169.356
+clu_linker 10.0 24 30 60 48 84.9952
+clu_linker 10.0 36 30 60 27 -131.24
+clu_linker 10.0 36 30 60 31 101.59
+clu_linker 10.0 36 30 60 48 -4.05828
+clu_linker 10.0 42 30 60 27 42.1811
+clu_linker 10.0 42 30 60 31 -84.9887
+clu_linker 10.0 42 30 60 48 169.363
+clu_linker 10.0 46 30 60 27 -179.995
+clu_linker 10.0 46 30 60 31 52.8348
+clu_linker 10.0 46 30 60 48 -52.8138
+clu_linker 10.0 57 30 60 27 78.4112
+clu_linker 10.0 57 30 60 31 -48.7587
+clu_linker 10.0 57 30 60 48 -154.407
+clu_linker 10.0 63 30 60 27 -78.6331
+clu_linker 10.0 63 30 60 31 154.197
+clu_linker 10.0 63 30 60 48 48.5484
+clu_linker 10.0 12 30 63 14 52.9914
+clu_linker 10.0 24 30 63 14 -113.404
+clu_linker 10.0 36 30 63 14 -28.3762
+clu_linker 10.0 42 30 63 14 -179.269
+clu_linker 10.0 46 30 63 14 42.83
+clu_linker 10.0 57 30 63 14 117.831
+clu_linker 10.0 60 30 63 14 -77.1731
+clu_linker 10.0 4 31 53 18 -68.8607
+clu_linker 10.0 4 31 53 48 143.521
+clu_linker 10.0 12 31 53 18 73.989
+clu_linker 10.0 12 31 53 48 -73.6298
+clu_linker 10.0 15 31 53 18 153.04
+clu_linker 10.0 15 31 53 48 5.4213
+clu_linker 10.0 17 31 53 18 -143.393
+clu_linker 10.0 17 31 53 48 68.988
+clu_linker 10.0 29 31 53 18 -4.88528
+clu_linker 10.0 29 31 53 48 -152.504
+clu_linker 10.0 54 31 53 18 5.34953
+clu_linker 10.0 54 31 53 48 -142.269
+clu_linker 10.0 60 31 53 18 142.679
+clu_linker 10.0 60 31 53 48 -4.94014
+clu_linker 10.0 4 31 54 18 84.3538
+clu_linker 10.0 4 31 54 20 -41.1813
+clu_linker 10.0 4 31 54 51 -169.636
+clu_linker 10.0 12 31 54 18 -101.94
+clu_linker 10.0 12 31 54 20 132.525
+clu_linker 10.0 12 31 54 51 4.06977
+clu_linker 10.0 15 31 54 18 -154.461
+clu_linker 10.0 15 31 54 20 80.0036
+clu_linker 10.0 15 31 54 51 -48.4515
+clu_linker 10.0 17 31 54 18 48.1161
+clu_linker 10.0 17 31 54 20 -77.4189
+clu_linker 10.0 17 31 54 51 154.126
+clu_linker 10.0 29 31 54 18 169.055
+clu_linker 10.0 29 31 54 20 43.5195
+clu_linker 10.0 29 31 54 51 -84.9356
+clu_linker 10.0 53 31 54 18 -4.45186
+clu_linker 10.0 53 31 54 20 -129.987
+clu_linker 10.0 53 31 54 51 101.558
+clu_linker 10.0 60 31 54 18 -53.3558
+clu_linker 10.0 60 31 54 20 -178.891
+clu_linker 10.0 60 31 54 51 52.654
+clu_linker 10.0 4 31 60 27 78.9041
+clu_linker 10.0 4 31 60 30 -153.947
+clu_linker 10.0 4 31 60 48 -48.2629
+clu_linker 10.0 12 31 60 27 -131.155
+clu_linker 10.0 12 31 60 30 -4.00613
+clu_linker 10.0 12 31 60 48 101.678
+clu_linker 10.0 15 31 60 27 -42.1076
+clu_linker 10.0 15 31 60 30 85.0409
+clu_linker 10.0 15 31 60 48 -169.275
+clu_linker 10.0 17 31 60 27 42.0859
+clu_linker 10.0 17 31 60 30 169.234
+clu_linker 10.0 17 31 60 48 -85.0811
+clu_linker 10.0 29 31 60 27 -78.5185
+clu_linker 10.0 29 31 60 30 48.6299
+clu_linker 10.0 29 31 60 48 154.314
+clu_linker 10.0 53 31 60 27 131.254
+clu_linker 10.0 53 31 60 30 -101.597
+clu_linker 10.0 53 31 60 48 4.08731
+clu_linker 10.0 54 31 60 27 -179.701
+clu_linker 10.0 54 31 60 30 -52.5528
+clu_linker 10.0 54 31 60 48 53.1318
+clu_linker 10.0 23 32 38 40 4.5879
+clu_linker 10.0 23 32 38 71 -176.044
+clu_linker 10.0 19 33 48 7 -179.394
+clu_linker 10.0 19 33 48 11 -113.446
+clu_linker 10.0 19 33 48 36 -28.4807
+clu_linker 10.0 19 33 48 43 -77.2302
+clu_linker 10.0 19 33 48 53 52.7532
+clu_linker 10.0 19 33 48 60 42.691
+clu_linker 10.0 19 33 48 64 117.671
+clu_linker 10.0 6 34 58 18 4.10132
+clu_linker 10.0 72 34 58 18 -176.467
+clu_linker 10.0 21 35 44 5 179.88
+clu_linker 10.0 21 35 44 39 -0.0540717
+clu_linker 10.0 49 35 44 5 0.040199
+clu_linker 10.0 49 35 44 39 -179.894
+clu_linker 10.0 21 35 49 25 -179.973
+clu_linker 10.0 21 35 49 59 -0.110545
+clu_linker 10.0 44 35 49 25 -0.133105
+clu_linker 10.0 44 35 49 59 179.729
+clu_linker 10.0 23 36 48 7 -5.4532
+clu_linker 10.0 23 36 48 11 -69.1921
+clu_linker 10.0 23 36 48 33 -143.582
+clu_linker 10.0 23 36 48 43 4.89106
+clu_linker 10.0 23 36 48 53 73.6182
+clu_linker 10.0 23 36 48 60 142.338
+clu_linker 10.0 23 36 48 64 152.673
+clu_linker 10.0 30 36 48 7 -152.674
+clu_linker 10.0 30 36 48 11 143.587
+clu_linker 10.0 30 36 48 33 69.1964
+clu_linker 10.0 30 36 48 43 -142.33
+clu_linker 10.0 30 36 48 53 -73.6031
+clu_linker 10.0 30 36 48 60 -4.88369
+clu_linker 10.0 30 36 48 64 5.45177
+clu_linker 10.0 18 37 51 6 69.1784
+clu_linker 10.0 18 37 51 9 -152.657
+clu_linker 10.0 18 37 51 12 -73.6394
+clu_linker 10.0 18 37 51 41 5.35615
+clu_linker 10.0 18 37 51 46 -142.42
+clu_linker 10.0 18 37 51 54 -4.90916
+clu_linker 10.0 18 37 51 62 143.536
+clu_linker 10.0 23 37 51 6 -143.442
+clu_linker 10.0 23 37 51 9 -5.27754
+clu_linker 10.0 23 37 51 12 73.7401
+clu_linker 10.0 23 37 51 41 152.736
+clu_linker 10.0 23 37 51 46 4.95933
+clu_linker 10.0 23 37 51 54 142.47
+clu_linker 10.0 23 37 51 62 -69.0841
+clu_linker 10.0 32 38 40 18 -4.65077
+clu_linker 10.0 71 38 40 18 175.982
+clu_linker 10.0 55 41 51 6 -117.498
+clu_linker 10.0 55 41 51 9 113.619
+clu_linker 10.0 55 41 51 12 28.6218
+clu_linker 10.0 55 41 51 37 -52.5872
+clu_linker 10.0 55 41 51 46 77.4195
+clu_linker 10.0 55 41 51 54 -42.49
+clu_linker 10.0 55 41 51 62 179.53
+clu_linker 10.0 51 41 55 10 -176.367
+clu_linker 10.0 51 41 55 29 4.1995
+clu_linker 10.0 30 42 52 15 -4.59684
+clu_linker 10.0 30 42 52 67 176.025
+clu_linker 10.0 18 43 48 7 -84.9969
+clu_linker 10.0 18 43 48 11 -169.382
+clu_linker 10.0 18 43 48 33 154.182
+clu_linker 10.0 18 43 48 36 101.6
+clu_linker 10.0 18 43 48 53 4.09626
+clu_linker 10.0 18 43 48 60 52.7675
+clu_linker 10.0 18 43 48 64 -48.5541
+clu_linker 10.0 23 43 48 7 169.338
+clu_linker 10.0 23 43 48 11 84.953
+clu_linker 10.0 23 43 48 33 48.5166
+clu_linker 10.0 23 43 48 36 -4.06448
+clu_linker 10.0 23 43 48 53 -101.569
+clu_linker 10.0 23 43 48 60 -52.8975
+clu_linker 10.0 23 43 48 64 -154.219
+clu_linker 10.0 45 43 48 7 42.1718
+clu_linker 10.0 45 43 48 11 -42.2134
+clu_linker 10.0 45 43 48 33 -78.6498
+clu_linker 10.0 45 43 48 36 -131.231
+clu_linker 10.0 45 43 48 53 131.265
+clu_linker 10.0 45 43 48 60 179.936
+clu_linker 10.0 45 43 48 64 78.6146
+clu_linker 10.0 23 46 51 6 48.5499
+clu_linker 10.0 23 46 51 9 169.358
+clu_linker 10.0 23 46 51 12 -101.579
+clu_linker 10.0 23 46 51 37 -4.10937
+clu_linker 10.0 23 46 51 41 -154.223
+clu_linker 10.0 23 46 51 54 -52.83
+clu_linker 10.0 23 46 51 62 84.9825
+clu_linker 10.0 30 46 51 6 154.206
+clu_linker 10.0 30 46 51 9 -84.9865
+clu_linker 10.0 30 46 51 12 4.07722
+clu_linker 10.0 30 46 51 37 101.546
+clu_linker 10.0 30 46 51 41 -48.5671
+clu_linker 10.0 30 46 51 54 52.8258
+clu_linker 10.0 30 46 51 62 -169.362
+clu_linker 10.0 66 46 51 6 -78.6217
+clu_linker 10.0 66 46 51 9 42.1862
+clu_linker 10.0 66 46 51 12 131.25
+clu_linker 10.0 66 46 51 37 -131.281
+clu_linker 10.0 66 46 51 41 78.6055
+clu_linker 10.0 66 46 51 54 179.998
+clu_linker 10.0 66 46 51 62 -42.1892
+clu_linker 10.0 4 47 61 18 -9.20546
+clu_linker 10.0 25 47 61 18 171.184
+clu_linker 10.0 7 48 53 18 69.1022
+clu_linker 10.0 7 48 53 31 -143.447
+clu_linker 10.0 11 48 53 18 5.26697
+clu_linker 10.0 11 48 53 31 152.717
+clu_linker 10.0 33 48 53 18 -152.737
+clu_linker 10.0 33 48 53 31 -5.28629
+clu_linker 10.0 36 48 53 18 -73.7311
+clu_linker 10.0 36 48 53 31 73.7193
+clu_linker 10.0 43 48 53 18 -4.95164
+clu_linker 10.0 43 48 53 31 142.499
+clu_linker 10.0 60 48 53 18 -142.508
+clu_linker 10.0 60 48 53 31 4.94275
+clu_linker 10.0 64 48 53 18 143.441
+clu_linker 10.0 64 48 53 31 -69.1085
+clu_linker 10.0 7 48 60 27 -78.6047
+clu_linker 10.0 7 48 60 30 154.226
+clu_linker 10.0 7 48 60 31 48.571
+clu_linker 10.0 11 48 60 27 78.649
+clu_linker 10.0 11 48 60 30 -48.5198
+clu_linker 10.0 11 48 60 31 -154.175
+clu_linker 10.0 33 48 60 27 42.2061
+clu_linker 10.0 33 48 60 30 -84.9626
+clu_linker 10.0 33 48 60 31 169.382
+clu_linker 10.0 36 48 60 27 131.228
+clu_linker 10.0 36 48 60 30 4.05942
+clu_linker 10.0 36 48 60 31 -101.596
+clu_linker 10.0 43 48 60 27 -179.938
+clu_linker 10.0 43 48 60 30 52.8931
+clu_linker 10.0 43 48 60 31 -52.7624
+clu_linker 10.0 53 48 60 27 -131.264
+clu_linker 10.0 53 48 60 30 101.567
+clu_linker 10.0 53 48 60 31 -4.08828
+clu_linker 10.0 64 48 60 27 -42.1788
+clu_linker 10.0 64 48 60 30 -169.348
+clu_linker 10.0 64 48 60 31 84.9969
+clu_linker 10.0 7 48 64 13 113.258
+clu_linker 10.0 11 48 64 13 179.164
+clu_linker 10.0 33 48 64 13 -117.849
+clu_linker 10.0 36 48 64 13 -53.022
+clu_linker 10.0 43 48 64 13 77.0295
+clu_linker 10.0 53 48 64 13 28.2475
+clu_linker 10.0 60 48 64 13 -42.8502
+clu_linker 10.0 6 51 54 18 -84.9744
+clu_linker 10.0 6 51 54 20 42.2055
+clu_linker 10.0 6 51 54 31 169.363
+clu_linker 10.0 9 51 54 18 154.172
+clu_linker 10.0 9 51 54 20 -78.6477
+clu_linker 10.0 9 51 54 31 48.5096
+clu_linker 10.0 12 51 54 18 101.591
+clu_linker 10.0 12 51 54 20 -131.229
+clu_linker 10.0 12 51 54 31 -4.07213
+clu_linker 10.0 37 51 54 18 4.09096
+clu_linker 10.0 37 51 54 20 131.271
+clu_linker 10.0 37 51 54 31 -101.572
+clu_linker 10.0 41 51 54 18 -169.359
+clu_linker 10.0 41 51 54 20 -42.179
+clu_linker 10.0 41 51 54 31 84.9782
+clu_linker 10.0 46 51 54 18 52.8244
+clu_linker 10.0 46 51 54 20 -179.996
+clu_linker 10.0 46 51 54 31 -52.8385
+clu_linker 10.0 62 51 54 18 -48.5204
+clu_linker 10.0 62 51 54 20 78.6595
+clu_linker 10.0 62 51 54 31 -154.183
+clu_linker 10.0 6 51 62 22 113.278
+clu_linker 10.0 9 51 62 22 -117.824
+clu_linker 10.0 12 51 62 22 -52.9584
+clu_linker 10.0 37 51 62 22 28.2913
+clu_linker 10.0 41 51 62 22 179.219
+clu_linker 10.0 46 51 62 22 -42.8384
+clu_linker 10.0 54 51 62 22 77.036
+ENDGEOMETRY
