@@ -143,7 +143,7 @@ def geo_data(abs_path):
      
 #    TODO: comment back this block! Testing Hirshfeld charges; 
 #    print("CHARGES:")
-#    #charges = get_charges_MBIS()
+#    charges = get_charges_MBIS()
 #    for i in range(0,len(charges)):
 #        #print(mol_id, w_charge, i+1, format(charges[i], '.6f'))
 #        charges_str += '{} {} {} {:.6}\n'.format(mol_id, w_charge, i+1, charges[i])
@@ -191,7 +191,7 @@ def geo_data(abs_path):
 
     #print(">> MY OUT_STR:\n%s" %(out_str))
     return (charges_str, bonds_str, angles_str, tors_str) # Now charges are empty
-    
+
 
 d = os.getcwd()
 str_dir = os.path.join(d, 'structures-MBIS+smearq') # 'structures-MBIS+smearq'
@@ -210,17 +210,17 @@ print("MBIS LIST:", mbis_path_lst)
 
 
 # MBIS charges:
-#charges = [get_charges_MBIS(mbis_path) for mbis_path in mbis_path_lst]
-#out_str = ""
-#out_str += "CHARGE\n"
-#print("MBIS charges I've get >>>>>>>>", charges)
-#out_str += ''.join([i for i in charges]) # Replace it by MBIS charges:
-#out_str += "ENDCHARGE\n"
+charges = [get_charges_MBIS(mbis_path) for mbis_path in mbis_path_lst]
+out_str = ""
+out_str += "CHARGE\n"
+print("MBIS charges I've get >>>>>>>>", charges)
+out_str += ''.join([i for i in charges]) # Replace it by MBIS charges:
+out_str += "ENDCHARGE\n"
 
 
 geo = [geo_data(path) for path in abs_str_list] # dill_lst
 
-out_str = ""
+
 out_str += "GEOMETRY\n"
 out_str += ''.join([i[1] for i in geo])
 out_str += ''.join([i[2] for i in geo])
@@ -243,6 +243,4 @@ out_str += "ENDGEOMETRY\n"
 
 with open("trainset.in", "w") as text_file:
     text_file.write(out_str)
-
-    #print(": {}".format(out_str), file=text_file)
 
